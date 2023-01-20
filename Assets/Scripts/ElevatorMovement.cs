@@ -2,7 +2,7 @@ using System.Collections;
 using DG.Tweening;
 using UnityEngine;
 
-public class Buttons : MonoBehaviour
+public class ElevatorMovement : MonoBehaviour
 {
     [SerializeField] private Transform Elevator;
     [SerializeField] private RoomButton0 RoomButton0;
